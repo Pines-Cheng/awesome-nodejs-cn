@@ -96,6 +96,8 @@
 - [NodeOS](http://node-os.com) - 第一个通过npm实现的操作系统，使用Node.js编写。
 - [limdu](https://github.com/erelsgl/limdu) - 一个机器学习框架。
 - [Cytoscape.js](http://js.cytoscape.org) - Cytoscape.js 是个开源 JavaScript 图形库，用户可以用 Cytoscape.js 来分析和制作可视化图形。它兼容 CommonJS/Node.js, jQuery 1.4+ 和纯 JavaScript。
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - 自我进化的AI编程智能，拥有无限记忆(TurboQuant)、遗传算法自进化、预测性错误检测、PageRank知识图谱、群体智能和对抗性防御。
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+精选AI代理技能，适用于Claude Code、Cursor、Copilot、Windsurf、Cline。可视化仪表盘、一键安装、技能医生、自动更新。
 
 
 ### 命令行应用
