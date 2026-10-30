@@ -723,8 +723,7 @@
 - [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
 - [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
-* [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
-
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
